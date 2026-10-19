@@ -1,0 +1,27 @@
+# Virtual enviroments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__
+*.py[cod]
+*.egg-info/
+
+# Enviroment variables / secrets
+.env
+.env.*
+
+# IDE / OS file
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and build output
+*.Log
+build/
+dist/
+
+# File text
+chat_file.txt
